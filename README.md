@@ -24,8 +24,6 @@ This Power BI project analyzes customer behavior, financial activity, and churn 
 
 ## 📊 Dashboard Previews
 
-## 📊 Dashboard Previews
-
 1. **Product Usage**  
 [![Product Usage](assets/Product_Usage.png)](assets/Product_Usage.png)
 
