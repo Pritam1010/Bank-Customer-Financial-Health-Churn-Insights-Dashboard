@@ -22,9 +22,19 @@ This Power BI project analyzes customer behavior, financial activity, and churn 
 
 ---
 
-## 📸 Dashboard Preview
+## 📊 Dashboard Previews
 
-![Dashboard Screenshot]("E:\Projects\Bank Financial Health Monitoring Dashboard (Power BI)\DashBoard 1 Screenshot.png")
+### 1. Customer Overview
+![Customer Overview](assets/customer_overview.png)
+
+### 2. Transaction Insights
+![Transaction Insights](assets/transaction_insights.png)
+
+### 3. Churn Analysis
+![Churn Analysis](assets/churn_analysis.png)
+
+### 4. Product Usage
+![Product Usage](assets/product_usage.png)
 
 ---
 
